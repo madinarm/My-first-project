@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+}
+.main{
+    background-color: rgba(75, 128, 188, 0.564);
+    max-width: 950px;
+    height: 500px;
+    display: flex;
+    justify-items: space-between;
+
+}
+.text > ul{
+    color: #fff;
+    font-family: sans-serif;
+    text-align: left;
+    text-transform: capitalize;
+    list-style: none;
+    margin-left: 100px;
+    
+}
+.text2 > ul{
+    color: #fff;
+    font-family: sans-serif;
+    text-align: left;
+    text-transform: capitalize;
+    list-style: none;
+    margin-left: 100px;
+    
+}
+.text3 > ul{
+    color: #fff;
+    font-family: sans-serif;
+    text-align: left;
+    text-transform: capitalize;
+    list-style: none;
+    margin-left: 100px;
+    
+}

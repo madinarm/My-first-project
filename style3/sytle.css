@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+}
+.main{
+    background-color: rgba(219, 226, 213, 0.801);
+    height: 500px;
+    max-width: 1200px;
+    display: flex;
+}
+.card1 {
+    background-color: #fff;
+    height: 400px;
+    font-family: sans-serif;
+    border: #000 solid 1px;
+    max-width: 300px ;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 60px ;
+}
+.button {
+    color: #fff;
+    background-color: #000;
+    border: none;
+    border-radius: 20px 20px 20px 20px;
+    padding: 10px 90px;
+    font-family: sans-serif;
+    text-align: left;
+    margin-top: 15px;
+
+}
+.text-word{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.card2 {
+    background-color: rgb(236, 113, 159);
+    height: 400px;
+    font-family: sans-serif;
+    border: none;
+    max-width: 300px ;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 60px ;
+}
+.button2 {
+    color: #fff;
+    background-color: #000;
+    border: none;
+    border-radius: 20px 20px 20px 20px;
+    padding: 10px 90px;
+    font-family: sans-serif;
+    text-align: left;
+    margin-top: 15px;
+
+}
+.text-words{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.card3 {
+    background-color: #fff;
+    height: 400px;
+    font-family: sans-serif;
+    border: #000 solid 1px;
+    max-width: 300px ;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 60px ;
+}
+.button3 {
+    color: #fff;
+    background-color: #000;
+    border: none;
+    border-radius: 20px 20px 20px 20px;
+    padding: 10px 90px;
+    font-family: sans-serif;
+    text-align: left;
+    margin-top: 15px;
+
+}
+.text-word1{
+    margin-left: 20px;
+    margin-right: 20px;
+}
